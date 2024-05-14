@@ -2,7 +2,7 @@
 Name: LEANN JOBY MATHEW
 Register Number: 212222230074
 
-
+```
 # EXPERIMENT 06 SQUARE WAVE GENERATION AT THE OUTPUT PIN USING TIMER
 # DATE:
 
@@ -83,7 +83,7 @@ Step10. Double click on the the MCU part to open settings. Next to the Program F
 Step11. click on debug and simulate using simulation as shown below 
 
 ## STM 32 CUBE PROGRAM :
-
+```
 #include "main.h"
 
 TIM_HandleTypeDef htim2;
@@ -207,16 +207,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 }
 #endif
-
-
-
-
-
-
- 
- 
- 
- 
+```
 
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
 ### FOR DUTY RATIO 50%
